@@ -16,7 +16,7 @@ At this point, you should be presented with a terminal prompt saying
 vscode ➜ /workspaces/TBTKDevContainer
 ```
 
-To create a new application<sup>1,2</sup>
+To create a new application<sup>1,2</sup>, type
 ```
 TBTKCreateApplication MyApplication
 ```
