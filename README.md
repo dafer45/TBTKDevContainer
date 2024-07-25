@@ -6,8 +6,8 @@ A dev-container for easy TBTK application development using Visual Studio Code.
 - Visual Studio Code (https://code.visualstudio.com)
 - Visual Studio Code plugin: Dev-container
 
-## Quick start
-- Òpen TBTKDevContainer in Visual Studio code.
+## Quick Start
+- Òpen TBTKDevContainer in Visual Studio Code.
 - Click "Reopen in Container" when asked.
 - Wait for build to complete, may take a few minutes.
 
