@@ -9,7 +9,7 @@ A dev-container for easy TBTK application development using Visual Studio Code.
 ## Quick Start
 - Òpen TBTKDevContainer in Visual Studio Code.
 - Click "Reopen in Container" when asked.
-- Wait for build to complete, may take a few minutes.
+- Wait for the build to complete. This may take a few minutes.
 
 At this point, you should be presented with a terminal prompt saying
 ```
