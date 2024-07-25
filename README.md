@@ -41,7 +41,7 @@ Repeat the last two commands every time you want to rebuild and rerun.
 
 See the terminal for text output and the folder MyApplication/figures/ for figures.
 
-* MyApplication is a placeholder for the application name.
+* MyApplication is a placeholder for the application name.  
 ** You may optionally specify a second argument for the TBTKCreateApplication to create a template project implementing one of several example problems. Type TBTKCreateApplication without any argument to see a list of all possible template names.
 
 ## Known issues and workarounds
