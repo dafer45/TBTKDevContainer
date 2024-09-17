@@ -1,5 +1,5 @@
 # TBTK dev-container
-A dev-container for easy TBTK application development using Visual Studio Code.
+A dev-container for easy [TBTK](https://github.com/dafer45/TBTK) application development using Visual Studio Code.
 
 ## Requirements
 - Docker (https://www.docker.com)
